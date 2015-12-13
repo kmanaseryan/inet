@@ -1,1 +1,1 @@
-# inet
+# Internet Programming project
